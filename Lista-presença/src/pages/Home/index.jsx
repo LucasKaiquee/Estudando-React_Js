@@ -9,9 +9,8 @@ function Home() {
       <input type="text" placeholder="Digite o nome..." />
       <button type="buttonn">Adcionar</button>
 
-      <Card />
-      <Card />
-      <Card />
+      <Card name='Lucas' time='10:55:25' />
+      <Card name='Kaique' time='11:00:10' />
 
     </div>
   )
